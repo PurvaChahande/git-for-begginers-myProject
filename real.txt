@@ -1,8 +1,5 @@
-This is my first commit!!
+Welcome to the "Git for Beginners" MyProject!!
 Author:
-Purva
-
-Developer: 
-Anna Chiruthirapalli Venkayam
+Purva Vikas Chahande
 
 Twitter Handle: @PurvaChahande01
